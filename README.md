@@ -1,8 +1,5 @@
-# self-driving-car
+# Self-Driving Car Engineer Nanodegree
 
-In this repository I will share the **source code** of all the projects of **[Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)**.
-
---- 
 ## Table of Contents
 
 #### [P1 - Detecting Lane Lines (basic)](basic-lane-finding)
