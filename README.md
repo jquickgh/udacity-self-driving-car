@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-#### [P1 - Detecting Lane Lines (basic)](basic-lane-finding)
+#### P1 - Detecting Lane Lines (basic)
  - **Summary:** Detected highway lane lines on a video stream. Used OpencV image analysis techniques to identify lines, including Hough Transforms and Canny edge detection.
  - **Keywords:** Computer Vision
  
