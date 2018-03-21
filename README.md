@@ -1,5 +1,13 @@
 # Self-Driving Car Engineer Nanodegree
 
+### [Advanced Lane Finding](advanced-lane-finding)
+ - **Summary:** Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
+ - **Keywords:** Computer Vision, OpenCV
+ 
+### [Vehicle Detection and Tracking](vehicle-detection)
+ - **Summary:** Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Implemented the same pipeline using a deep network to perform detection. Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
+ - **Keywords:** Computer Vision, Deep Learning, OpenCV
+
 ### [Traffic Sign Classification](traffic-sign-classifier)
  - **Summary:** Built and trained a deep neural network to classify traffic signs, using TensorFlow. Experimented with different network architectures. Performed image pre-processing and validation to guard against overfitting.
  - **Keywords:** Deep Learning, TensorFlow, Computer Vision
@@ -8,14 +16,6 @@
  - **Summary:** Built and trained a convolutional neural network for end-to-end driving in a simulator, using TensorFlow and Keras. Used optimization techniques such as regularization and dropout to generalize the network for driving on multiple tracks.
  - **Keywords:** Deep Learning, Keras, Convolutional Neural Networks
 
-### [Advanced Lane Finding](advanced-lane-finding)
- - **Summary:** Built an advanced lane-finding algorithm using distortion correction, image rectification, color transforms, and gradient thresholding. Identified lane curvature and vehicle displacement. Overcame environmental challenges such as shadows and pavement changes.
- - **Keywords:** Computer Vision, OpenCV
- 
-### [Vehicle Detection and Tracking](vehicle-detection)
- - **Summary:** Created a vehicle detection and tracking pipeline with OpenCV, histogram of oriented gradients (HOG), and support vector machines (SVM). Implemented the same pipeline using a deep network to perform detection. Optimized and evaluated the model on video data from a automotive camera taken during highway driving.
- - **Keywords:** Computer Vision, Deep Learning, OpenCV
- 
 ### [Extended Kalman Filter](extended-kalman-filter)
  - **Summary:** Implement the extended Kalman filter in C++. Simulated lidar and radar measurements are used to detect a bicycle that travels around your vehicle. Kalman filter, lidar measurements and radar measurements are used to track the bicycle's position and velocity.
  - **Keywords:** C++, Kalman Filter
